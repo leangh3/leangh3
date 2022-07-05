@@ -1,6 +1,15 @@
-### Hi there 👋
+# Hola, soy Leandro! 👋
+<!-- 
+## About Me
 
-<!--
+> Me recibí en el año 2018 de Contador Público en la universidad de Buenos Aires y trabajé en el area de impuestos durante 3 años, logrando el cargo de senior. Viendo las ventajas y facilidades que brindaban las aplicaciones que utilizábamos para trabajar, sentí el interés de querer aprender a desarrollar.
+
+> En 2022 decidí ingresar a un bootcamp de desarrollador full stack java y poder ampliar mi desarrollo profesional.
+
+
+
+
+
 **leangh3/leangh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
