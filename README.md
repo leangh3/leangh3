@@ -1,25 +1,18 @@
 # Hola, soy Leandro! 👋
-<!-- 
+
 ## About Me
 
-> Me recibí en el año 2018 de Contador Público en la universidad de Buenos Aires y trabajé en el area de impuestos durante 3 años, logrando el cargo de senior. Viendo las ventajas y facilidades que brindaban las aplicaciones que utilizábamos para trabajar, sentí el interés de querer aprender a desarrollar.
+> Me recibí en el año 2018 de Contador Público en la universidad de Buenos Aires y trabajé en el area de impuestos durante 3 años, logrando el cargo de senior. En busca de nuevos desafíos, elegí ser desarrollador por las ventajas y facilidades que brinda las aplicaciones que se pueden crear y aplicar en el mundo real.
 
-> En 2022 decidí ingresar a un bootcamp de desarrollador full stack java y poder ampliar mi desarrollo profesional.
+> Recientemente finalicé un bootcamp de desarrollador dictado por Mindhub LA y me encuentro en la búsqueda de mi primera experiencia en el mundo IT. Cuento con 700 horas de capacitación, desarrollando proyectos individuales y grupales mediante la metodología “Learning by Doing” y metodologías ágiles “SCRUM”. , simulando un entorno de ambiente laboral REAL, utilizando distintas tecnologías como:
 
+ ✔ HTML 
+ ✔ CSS
+ ✔ Javascript
+ ✔ Vue
+ ✔ Bootstrap
+ ✔ JAVA
+ ✔ Spring
 
+> Mi deseo es continuar aprendiendo y mejorando mis capacidades como desarrollador.
 
-
-
-**leangh3/leangh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
